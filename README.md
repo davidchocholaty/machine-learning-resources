@@ -38,3 +38,28 @@ https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
 
 *Just needed.*
+
+##### Machine Learning, Data Science and Generative AI with Python
+https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/?couponCode=24T1MT101824
+
+*An awesome course that covers the most important parts, starting with the basics and progressing to more advanced topics.*
+
+##### Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT
+https://www.udemy.com/course/artificial-intelligence-az/
+
+*A-Z course.*
+
+##### ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide
+https://www.udemy.com/course/chatgpt-bard-bing-complete-guide-to-chatgpt-openai-apis/?couponCode=24T1MT101824
+
+*Great for tools like ChatGPT, etc.*
+
+##### ChatGPT Prompt Engineering for Developers
+https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction
+
+*For prompt engineering.*
+
+##### Lil’Log
+https://lilianweng.github.io/
+
+Lilian Weng's blog covers advanced topics on ML and LLMs—love it!
